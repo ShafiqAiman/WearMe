@@ -1,2 +1,3 @@
-# WearMe-App
-WearMe App is an Augmented Reality (AR) based mobile application that allows the user to try on shoes first before purchasing them online. It also helps the user by recommending the best size of particular shoes based on their foot measurement.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4954eb52a32b3352314f5dde694309814813ba0e96c2ad90d45c459abf88b76
+size 260
