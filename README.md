@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:b4954eb52a32b3352314f5dde694309814813ba0e96c2ad90d45c459abf88b76
-size 260
+### Hi there 👋
+
+- 🔭 I’m currently working as a **✨Project & Delivery Intern at PETRONAS!✨**
+- 🌱 I’m currently learning React.js and Vue.js
+- 📫 How to reach me:
+
+[![image](https://user-images.githubusercontent.com/32039212/128548059-ad925d4c-1881-4115-abce-fa716819e592.png)
+](https://www.linkedin.com/in/shafiq-aimann/)
