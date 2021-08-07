@@ -1,5 +1,8 @@
 # WearMe
 
+![WearMe Logo](https://user-images.githubusercontent.com/32039212/128588800-791b570c-3921-4655-9d18-ef2d7f903efb.png)
+
+
 WearMe App is an Augmented Reality (AR) based mobile application that allows the user to try on shoes first before purchasing them online. It also helps the user by recommending the best size of particular shoes based on their foot measurement.The prototype is coded with Unity, C# scripts and Vuforia.
 
 ### Features of WearMe
