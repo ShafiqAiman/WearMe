@@ -19,4 +19,9 @@ WearMe App is an Augmented Reality (AR) based mobile application that allows the
 
 ![Share Online](https://user-images.githubusercontent.com/32039212/128588728-ee9cfcd3-4b57-4197-a45c-a470f1a0f176.jpg)
 
+
+### Demonstration of WearMe
+
+https://youtu.be/5VbJ6gJCUOY
+
 Please take note that the app is not going to work without specific sock that I wore in the pictures above. The APK file can be accessed from Releases section of this repository :)
