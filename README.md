@@ -18,3 +18,5 @@ WearMe App is an Augmented Reality (AR) based mobile application that allows the
 3. Share it to social media
 
 ![Share Online](https://user-images.githubusercontent.com/32039212/128588728-ee9cfcd3-4b57-4197-a45c-a470f1a0f176.jpg)
+
+Please download APK file from Pre-Release to have it a try!
